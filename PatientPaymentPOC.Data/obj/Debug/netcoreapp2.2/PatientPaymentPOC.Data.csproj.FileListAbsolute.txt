@@ -1,0 +1,9 @@
+C:\inetpub\wwwroot\PatientPaymentPOC\PatientPaymentPOC.Data\bin\Debug\netcoreapp2.2\PatientPaymentPOC.Data.deps.json
+C:\inetpub\wwwroot\PatientPaymentPOC\PatientPaymentPOC.Data\bin\Debug\netcoreapp2.2\PatientPaymentPOC.Data.dll
+C:\inetpub\wwwroot\PatientPaymentPOC\PatientPaymentPOC.Data\bin\Debug\netcoreapp2.2\PatientPaymentPOC.Data.pdb
+C:\inetpub\wwwroot\PatientPaymentPOC\PatientPaymentPOC.Data\obj\Debug\netcoreapp2.2\PatientPaymentPOC.Data.csprojAssemblyReference.cache
+C:\inetpub\wwwroot\PatientPaymentPOC\PatientPaymentPOC.Data\obj\Debug\netcoreapp2.2\PatientPaymentPOC.Data.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\PatientPaymentPOC\PatientPaymentPOC.Data\obj\Debug\netcoreapp2.2\PatientPaymentPOC.Data.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\PatientPaymentPOC\PatientPaymentPOC.Data\obj\Debug\netcoreapp2.2\PatientPaymentPOC.Data.AssemblyInfo.cs
+C:\inetpub\wwwroot\PatientPaymentPOC\PatientPaymentPOC.Data\obj\Debug\netcoreapp2.2\PatientPaymentPOC.Data.dll
+C:\inetpub\wwwroot\PatientPaymentPOC\PatientPaymentPOC.Data\obj\Debug\netcoreapp2.2\PatientPaymentPOC.Data.pdb
